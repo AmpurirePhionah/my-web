@@ -1,0 +1,35 @@
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #555;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #777;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #999;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #BBB;
+}
+
+h6 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #DDD;
+}
